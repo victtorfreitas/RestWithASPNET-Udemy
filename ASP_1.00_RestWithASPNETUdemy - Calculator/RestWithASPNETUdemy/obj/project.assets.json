@@ -11805,11 +11805,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\victtor.freitas\\Documents\\projetos\\asp-net\\RestWithASPNET-Udemy\\RestWithASPNETUdemy\\RestWithASPNETUdemy\\RestWithASPNETUdemy.csproj",
+      "projectUniqueName": "C:\\Users\\victtor.freitas\\Documents\\projetos\\asp-net\\RestWithASPNET-Udemy\\ASP_1.00_RestWithASPNETUdemy - Calculator\\RestWithASPNETUdemy\\RestWithASPNETUdemy.csproj",
       "projectName": "RestWithASPNETUdemy",
-      "projectPath": "C:\\Users\\victtor.freitas\\Documents\\projetos\\asp-net\\RestWithASPNET-Udemy\\RestWithASPNETUdemy\\RestWithASPNETUdemy\\RestWithASPNETUdemy.csproj",
+      "projectPath": "C:\\Users\\victtor.freitas\\Documents\\projetos\\asp-net\\RestWithASPNET-Udemy\\ASP_1.00_RestWithASPNETUdemy - Calculator\\RestWithASPNETUdemy\\RestWithASPNETUdemy.csproj",
       "packagesPath": "C:\\Users\\victtor.freitas\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\victtor.freitas\\Documents\\projetos\\asp-net\\RestWithASPNET-Udemy\\RestWithASPNETUdemy\\RestWithASPNETUdemy\\obj\\",
+      "outputPath": "C:\\Users\\victtor.freitas\\Documents\\projetos\\asp-net\\RestWithASPNET-Udemy\\ASP_1.00_RestWithASPNETUdemy - Calculator\\RestWithASPNETUdemy\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
