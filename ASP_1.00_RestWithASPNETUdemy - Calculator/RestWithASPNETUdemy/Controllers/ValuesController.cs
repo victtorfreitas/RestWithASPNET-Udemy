@@ -8,7 +8,7 @@ namespace RestWithASPNETUdemy.Controllers
 {
     [Route("api/[controller]")]
     [ApiController]
-    public class ValuesController3 : ControllerBase
+    public class ValuesController : ControllerBase
     {
         // GET api/values
         [HttpGet]
